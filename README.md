@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neelendra pratap singh</h1>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a> 
-</p>
+</p> -->
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -43,28 +43,28 @@
 
 ---
 
-<h3>My GitHub Stats</h3>
+<!-- <h3>My GitHub Stats</h3> -->
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <!-- ✅ ADDED: Most Used Languages -->
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatrix2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
-</p>
+</p> -->
 
 
 <br>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ultimatrix2&show_icons=true&theme=dark&locale=en" alt="ultimatrix2" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ultimatrix2&show_icons=true&theme=dark&locale=en" alt="ultimatrix2" /></p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br> -->
 
 <!-- GitHub Streak -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ultimatrix2&theme=dark" alt="ultimatrix2" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ultimatrix2&theme=dark" alt="ultimatrix2" /></p> -->
 
-<br><br><br><br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br><br><br><br>
 <p align="center">
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;**GitHub Profile Trophies**
 </p>
@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ultimatrix2&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
 </p>
-<br><br><br>
+<br><br><br> -->
 
 
 
